@@ -1,6 +1,9 @@
 index.html # Main HTML file
+
 style.css # CSS styles
+
 portfolio.png # Screenshot / Profile image
+
 README.md # Documentation
 
 
