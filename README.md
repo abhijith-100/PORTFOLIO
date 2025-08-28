@@ -13,7 +13,7 @@ It displays a profile image, job title, contact details, and social links in a c
 
 ## 📸 Project Preview
 
-![Portfolio Screenshot]()
+![Portfolio Screenshot](https://github.com/abhijith-100/PORTFOLIO/blob/main/portfolio.png?raw=true)
 
 ---
 
